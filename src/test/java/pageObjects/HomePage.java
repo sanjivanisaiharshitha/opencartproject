@@ -15,7 +15,7 @@ public class HomePage extends BasePage{
 	@FindBy(xpath = "//span[normalize-space()='My Account']")
 	WebElement lnkMyaccount;
 	
-	@FindBy(xpath = "//a[@class='dropdown-item'][normalize-space()='Register'")
+	@FindBy(xpath = "//*[@id=\"top\"]/div[2]/div[2]/ul/li[2]/div/ul/li[1]/a")
 	WebElement lnkRegister;
 	
 	//action methods
