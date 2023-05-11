@@ -30,6 +30,7 @@ public class RegistrationPage extends BasePage{
 	@FindBy(xpath = "//button[normalize-space()='Continue']")
 	WebElement Cntinue;
 	
+	
 	//action methods
 	public void setFstname(String fname){
 		txtFrstName.sendKeys(fname);

@@ -36,15 +36,15 @@ public class BaseClass {
 		logger=LogManager.getLogger(this.getClass());
 		ChromeOptions ops=new ChromeOptions();
 		ops.addArguments("--remote-allow-origins=*");
-		/*if(br.equals("chrome"))
+		if(br.equals("chrome"))
 		{
 			driver=new ChromeDriver();
 		}
-		else*/
+		/*else
 			if(br.equals("edge"))
 		{
 			driver=new EdgeDriver();
-		}
+		}*/
 		WebDriverManager.chromedriver().setup();
 		driver=new ChromeDriver(ops);
 		driver.manage().deleteAllCookies();

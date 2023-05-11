@@ -18,3 +18,21 @@
 08:49:29.978 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
 09:37:28.593 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
 09:37:28.865 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+10:32:52.232 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
+10:32:52.377 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+17:03:59.859 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
+17:03:59.988 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+09:37:23.953 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
+09:37:24.456 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
+09:37:24.565 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+09:37:24.612 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+09:37:43.301 [TestNG-tests-1] INFO  testCases.TC_002_Searchproduct - *** starting Tc_002_Searchproduct ***
+09:41:01.498 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
+09:43:09.511 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
+09:43:09.635 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+09:50:39.396 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
+09:50:39.560 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+11:39:54.462 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
+11:39:54.587 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+11:44:24.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
+11:44:24.799 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
