@@ -18,6 +18,9 @@ public class HomePage extends BasePage{
 	@FindBy(xpath = "//*[@id=\"top\"]/div[2]/div[2]/ul/li[2]/div/ul/li[1]/a")
 	WebElement lnkRegister;
 	
+	@FindBy(xpath = "//a[normalize-space()='Login']")
+	WebElement lnklogin;
+	
 	//action methods
 	public void clickMyAccount() {
 		lnkMyaccount.click();
@@ -25,5 +28,9 @@ public class HomePage extends BasePage{
 	
 	public void clickRegister() {
 		lnkRegister.click();
+	}
+	
+	public void clicklogin() {
+		lnklogin.click();
 	}
 }

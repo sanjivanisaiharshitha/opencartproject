@@ -8,8 +8,9 @@
   <test thread-count="5" name="OpencartTest">
   <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="testCases.TC_001_AccountRegistrationTest"/>
-      <class name="testCases.TC_002_Searchproduct"/>
+     <!-- <class name="testCases.TC_001_AccountRegistrationTest"/>-->
+      <class name="testCases.TC_003_LoginTest"/>
+     
     </classes>
   </test> <!-- OpencartTest -->
 </suite> <!-- OpencartSuite -->
