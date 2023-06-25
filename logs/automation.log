@@ -64,3 +64,10 @@
 12:30:33.259 [main] INFO  testCases.TC_003_LoginTest - *** starting Tc_003_LoginTest ***
 12:35:37.067 [main] INFO  testCases.TC_003_LoginTest - *** starting Tc_003_LoginTest ***
 12:38:26.113 [main] INFO  testCases.TC_003_LoginTest - *** starting Tc_003_LoginTest ***
+16:07:02.120 [main] INFO  testCases.TC_003_LoginTest - *** starting Tc_003_LoginTest ***
+16:12:07.590 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting Tc_001_AccountRegistartionTest ***
+16:12:07.825 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+16:13:07.983 [main] INFO  testCases.TC_003_LoginTest - *** starting Tc_003_LoginTest ***
+16:14:06.497 [main] INFO  testCases.TC_003_LoginTest - *** starting Tc_003_LoginTest ***
+16:17:52.185 [main] INFO  testCases.TC_003_LoginTest - *** starting Tc_003_LoginTest ***
+16:26:06.263 [main] INFO  testCases.TC_003_LoginTest - *** starting Tc_003_LoginTest ***
